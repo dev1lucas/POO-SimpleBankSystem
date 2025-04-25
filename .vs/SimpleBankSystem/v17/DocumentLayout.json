@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LS Tech\\Documents\\Projetos Pessoais\\Console Library\\SimpleBankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA60509-80B5-4FE5-9EBF-60B0949F47F8}|SimpleBankSystem\\SimpleBankSystem.csproj|c:\\users\\ls tech\\documents\\projetos pessoais\\console library\\simplebanksystem\\simplebanksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA60509-80B5-4FE5-9EBF-60B0949F47F8}|SimpleBankSystem\\SimpleBankSystem.csproj|solutionrelative:simplebanksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LS Tech\\Documents\\Projetos Pessoais\\Console Library\\SimpleBankSystem\\SimpleBankSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleBankSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\LS Tech\\Documents\\Projetos Pessoais\\Console Library\\SimpleBankSystem\\SimpleBankSystem\\Program.cs",
+              "RelativeToolTip": "SimpleBankSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:41:32.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
